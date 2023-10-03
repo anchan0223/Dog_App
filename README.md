@@ -5,7 +5,7 @@ Time spent: **3** hours spent in total
 **Dogolingo** is an android app that was riddle with some pretty nasty Kotlin bugs. 
 With those gone, it's a collection of widgets for a variety of purposes! 
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here** 
+If I had to describe this project in three (3) emojis, they would be: **😵‍💫,🐶,🐾** 
 
 ## Application Features
 The following REQUIRED features are completed: 
