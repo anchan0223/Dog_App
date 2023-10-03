@@ -35,7 +35,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![](https://github.com/anchan0223/Dog_App/blob/master/Project3.gif)
 
-Video Demo GIF created with **your chosen GIF tool** 
+Video Demo GIF created with **ScreentoGif** 
 ## License Copyright 
 **2023** **Anna Harvey** 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. 
