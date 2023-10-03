@@ -27,6 +27,7 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot 
 I have chosen to duplicate the following layout from the **Duolingo** 
+![](https://github.com/anchan0223/Dog_App/blob/master/Screenshot%202023-10-02%20211049.png)
 ## Video Demo 
 Here's a video / GIF that demos all of the app's implemented features: 
 
