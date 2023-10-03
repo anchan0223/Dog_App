@@ -29,6 +29,7 @@ The following EXTRA features are implemented:
 I have chosen to duplicate the following layout from the **Duolingo** 
 ## Video Demo 
 Here's a video / GIF that demos all of the app's implemented features: 
+![](https://github.com/anchan0223/MyApp/blob/main/project3.gif)
 Video Demo GIF created with **your chosen GIF tool** 
 ## License Copyright 
 **2023** **Anna Harvey** 
